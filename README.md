@@ -8,7 +8,7 @@ You can enter a country or city to find out more about the temperature, humidity
 
 **Usage**
 ---
-![Image Alt](https://github.com/Mengjun-binary/Coding-a-weather-app/blob/096f717f4830f787b85b2cfc2f87bc2d232f7459/Live-Server-Instruction.jpg)
+![Image Alt](https://github.com/Mengjun-binary/Coding-a-weather-app/blob/08dd29652001fe5768c057e8e9162f00e7db4680/Live-Server-Instruction.jpg)
 ```
 Usage: index.html, style.css and index.js
 
