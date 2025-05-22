@@ -9,7 +9,8 @@ You can enter a country or city to find out more about the temperature, humidity
 
 ```
 Usage: index.html, style.css and index.js
-![Live Server Instruction](https://github.com/user-attachments/assets/d35e46f9-c6d8-4fa7-9134-cacdb07db43e)
+![Live Server Instruction](https://github.com/user-attachments/assets/de8ba104-4447-4cfd-ab9e-9f7f78c4e9f3)
+
 
 1. Open the html, css and js files in VS Code
 2. Right-click the index.html on the left nav bar and select *Open with Live Server* as shown in the image above.
